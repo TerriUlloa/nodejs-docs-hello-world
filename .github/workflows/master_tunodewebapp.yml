@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'tunodewebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1CC6067EAA0A40A5B99D1D7FC1B3582C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2CC0804F2F094C30B6E271303E4B3BCD }}
           package: .
